@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DAL/StudentManagementApp.DAL.csproj" Id="c4152187-09a8-4df5-9c3a-81762f8e7be1" />
+  <Project Path="BLL/StudentManagementApp.BLL.csproj" Id="09f68663-c219-49c0-a967-2a50bdacf07d" />
+  <Project Path="StudentManagementApp/StudentManagementApp.csproj" Id="3b8d6c10-1e55-4235-80f0-28d302616bd3" />
+</Solution>
